@@ -8,7 +8,7 @@
 
 <p align="center">
   🚀 <i>Tech enthusiast sharing my journey and learnings in the world of technology</i> <br><br>
-  💬 <i>I love meeting new people, having meaningful conversations, and helping others whenever I can</i> <br><br>
+  🎓 <i>Currently studying Computer Science, in the final year of my B.Tech</i> <br><br>
   🌱 <i>Passionate about continuous learning — I’ve explored web development, machine learning, and more</i> <br><br>
   🔐 <i>Currently diving deep into the exciting domain of cybersecurity</i>
 </p>
